@@ -9,5 +9,5 @@
 ## 課程筆記區
 
 ## 作業連結區
-  HW1 9/12: https://shenhsiu45.github.io/My-web/
+  HW1 9/12: [Shen Hsiu's Web]<https://shenhsiu45.github.io/My-web/>
 ## 專題連結區
