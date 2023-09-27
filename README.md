@@ -10,6 +10,10 @@
   Week1: 創建Github 與 安裝Node.js 和 React
   
   Week2: 透過模板套用建立個人靜態網站
+
+  Week3: 介紹 開放式系統互通(OSI)七層模型、10個基本網路命令 與 DNS Server
+
+  Week4: HTTP 請求方法、HTTP 狀態碼 Status Code、實作 server 端
 ## 作業連結區
   HW1 靜態網站 9/12: [Shen Hsiu's Web](https://shenhsiu45.github.io/My-web/)
 ## 專題連結區
