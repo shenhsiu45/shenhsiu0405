@@ -1,6 +1,6 @@
 # 112-1 師大科技系網際網路概論
 
-授課教師：蔡芸琤老師
+授課教師：[蔡芸琤](https://github.com/pecu)老師
 
 姓名：張慎修
 
@@ -17,3 +17,6 @@
 ## 作業連結區
   HW1 靜態網站 9/12: [Shen Hsiu's Web](https://shenhsiu45.github.io/My-web/)
 ## 專題連結區
+
+## Markdown 
+    語法說明：https://markdown.tw/
