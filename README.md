@@ -18,5 +18,3 @@
   HW1 靜態網站 9/12: [Shen Hsiu's Web](https://shenhsiu45.github.io/My-web/)
 ## 專題連結區
 
-## Markdown 
-    語法說明：https://markdown.tw/
