@@ -17,6 +17,6 @@
 ## 作業連結區
   HW1 靜態網站 9/12: [Shen Hsiu's Web](https://shenhsiu45.github.io/My-web/)
 
-  HW2 架設動態網站 : [HW2 建立動態網站](https://youtu.be/_aMM6ktmWas)
+  HW2 架設動態網站 : [HW2 建立動態網站](https://youtu.be/FmfE-r48s5M)
 ## 專題連結區
 
