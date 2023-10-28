@@ -18,5 +18,7 @@
   HW1 靜態網站 9/12: [Shen Hsiu's Web](https://shenhsiu45.github.io/My-web/)
 
   HW2 架設動態網站 : [HW2 建立動態網站](https://youtu.be/FmfE-r48s5M)
+
+  HW3 JavaScript小作品 : [HW3 Name Tag Generator](https://youtu.be/n8--Xlrxd5Q)
 ## 專題連結區
 
