@@ -20,5 +20,7 @@
   HW2 架設動態網站 : [HW2 建立動態網站](https://youtu.be/FmfE-r48s5M)
 
   HW3 JavaScript小作品 : [HW3 Name Tag Generator](https://shenhsiu45.github.io/Name-Tag-Generator/)  [操作影片](https://youtu.be/n8--Xlrxd5Q)
+
+  HW4 Azure雲端部署 : [HW4 Azure Deploy My-web](https://shenhsiu.azurewebsites.net/)  [操作影片](https://youtu.be/rQwQjOGy8-s) 
 ## 專題連結區
 
